@@ -1,0 +1,6 @@
+framework module Pods_AgentRestocks {
+  umbrella header "Pods-AgentRestocks-umbrella.h"
+
+  export *
+  module * { export * }
+}

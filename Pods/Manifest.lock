@@ -1,0 +1,114 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - DTZFloatingActionButton (0.3.0)
+  - FloatRatingView (2.0)
+  - FullMaterialLoader (0.2.2)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - iOSDropDown (0.2.2)
+  - IQKeyboardManagerSwift (5.0.0)
+  - Kingfisher (4.8.0)
+  - LinearProgressBarMaterial (1.3)
+  - MultilineTextField (0.2.2)
+  - PWSwitch (1.1.0)
+  - ReachabilitySwift (4.1.0)
+  - ScratchCard (1.1.3)
+  - SDWebImage (4.4.1):
+    - SDWebImage/Core (= 4.4.1)
+  - SDWebImage/Core (4.4.1)
+  - Socket.IO-Client-Swift (13.2.1):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.5)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.2)
+  - Alamofire
+  - AlamofireImage
+  - DTZFloatingActionButton
+  - FloatRatingView (~> 2.0.0)
+  - FullMaterialLoader
+  - GoogleMaps
+  - GooglePlaces
+  - iOSDropDown
+  - IQKeyboardManagerSwift (= 5.0.0)
+  - Kingfisher (~> 4.0)
+  - LinearProgressBarMaterial
+  - MultilineTextField
+  - PWSwitch
+  - ReachabilitySwift
+  - ScratchCard
+  - SDWebImage (~> 4.0)
+  - Socket.IO-Client-Swift
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Alamofire
+    - AlamofireImage
+    - DTZFloatingActionButton
+    - FloatRatingView
+    - FullMaterialLoader
+    - GoogleMaps
+    - GooglePlaces
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - LinearProgressBarMaterial
+    - MultilineTextField
+    - PWSwitch
+    - ReachabilitySwift
+    - ScratchCard
+    - SDWebImage
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  DTZFloatingActionButton: ba22fbb31e700052073197caeaac1782a1c1fd3c
+  FloatRatingView: 857ab8f10040d06a42fc979f486c8f9fecd2f2e5
+  FullMaterialLoader: 96e0a87acd19c27b8b63f723ab06f1fc5df30578
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  iOSDropDown: 1b9730344602353c1c83f98da6f88bfd592b06e4
+  IQKeyboardManagerSwift: 3f340202ebe1a7076279b9b9b3c817243ddb3aab
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  LinearProgressBarMaterial: 84df3135c27a0fc5e0219da10ee98304de159b06
+  MultilineTextField: 4fe1fbdd32b97c19712b2988f4ae2f73002821b9
+  PWSwitch: e5a45cb84ff794a4d651812cce1f061764629ed3
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  ScratchCard: e5b9f8b9c5f9c197128fc6540cd829473e284fd3
+  SDWebImage: 47e9b5b925cbce75946c23f0c42dd19464189af4
+  Socket.IO-Client-Swift: b94943e2fb916fe2f95244b9ed21828634002280
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: d17ed119755997ced513b326e3cd83f42c68476c
+
+COCOAPODS: 1.6.0
